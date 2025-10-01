@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, me chamo Alexandre Ferreira e sou discente de Design Digital pela UFC.
 
 <!--
 **XandyDsg/xandydsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
