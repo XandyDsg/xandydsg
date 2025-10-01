@@ -12,16 +12,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreferreiraoliveira&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreferreiraoliveira&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
-
 ## 🌱 Sobre mim  
 - 🎨 Estudante de **Design Digital**  
-- 📚 Curioso por **games, HQs e pesquisa acadêmica**  
+- 📚 Curioso por **Jogos** **Design Interativo** **sustentabilidade** e **Sociologia e cultura digital**
 - ✨ Buscando sempre unir **criatividade e código**  
